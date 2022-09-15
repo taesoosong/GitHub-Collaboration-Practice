@@ -1,0 +1,15 @@
+git clone https://github.com/tsplanning/GitHub-Collaboration-Practice.git 
+
+cd GitHub-Collaboration-Practice
+
+git checkout -b annette_v1
+
+vim annette.txt
+
+touch annette-commands.txt
+
+git add *
+
+git commit -m annette_v1
+
+git push
